@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "tp": "TSO-2026-TP8",
+    "catedra": "Teoría de Sistemas Operativos - UNJu FI",
+    "docentes": "Ing. María Fernanda Vázquez | Ing. Fabio D. Argañaraz",
+    "fecha_exportacion": "2026-11-10T05:17:21.728Z",
+    "alumno": {
+      "nombre": "Ustarez, Alvaro Alejandro",
+      "legajo": "PUI-000132",
+      "email": "34912111@gmail.com"
+    }
+  },
+  "ej1_asignacion_contigua": "maxima_velocidad_fragmentacion_externa",
+  "ej2_asignacion_enlazada": "costo_k_lecturas_vulnerabilidad_cadena",
+  "ej3_tabla_fat": "punteros_centralizados_tabla_ram",
+  "ej4_inodo_bloques_directos": "en_el_propio_inodo_un_acceso",
+  "ej5_capacidad_inodo_calculo": "256_bloques_256kib",
+  "ej6_accesos_disco_inodo": "3_lecturas_doble_indirecto",
+  "ej7_mapa_bits_memoria": "1048576_bytes_1mib"
+}
